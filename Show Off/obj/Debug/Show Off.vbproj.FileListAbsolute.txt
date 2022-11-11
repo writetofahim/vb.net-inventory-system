@@ -1,0 +1,43 @@
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\Show Off.exe.config
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\Show Off.exe
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\Show Off.pdb
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\Show Off.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show Off.vbproj.AssemblyReference.cache
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show_Off.Form1.resources
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show_Off.Resources.resources
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show Off.vbproj.GenerateResource.cache
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show Off.vbproj.CoreCompileInputs.cache
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show Off.exe
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show Off.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show Off.pdb
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show_Off.Register.resources
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\zxing.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\zxing.presentation.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\zxing.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\zxing.presentation.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show_Off.Product_Master.resources
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show Off.vbproj.CopyComplete
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show_Off.Inventory_System.resources
+G:\My Projects\VB project\Show Off\Show Off\Show Off\obj\Debug\Show_Off.Login_Interface.resources
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\BouncyCastle.Crypto.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\Google.Protobuf.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\K4os.Compression.LZ4.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\K4os.Hash.xxHash.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\MySql.Data.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\System.Buffers.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\System.Memory.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\System.Numerics.Vectors.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\ZstdNet.dll
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\BouncyCastle.Crypto.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\Google.Protobuf.pdb
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\Google.Protobuf.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\K4os.Compression.LZ4.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\K4os.Hash.xxHash.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\MySql.Data.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\System.Buffers.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\System.Memory.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\System.Numerics.Vectors.xml
+G:\My Projects\VB project\Show Off\Show Off\Show Off\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
